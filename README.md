@@ -1,4 +1,3 @@
-manojpandey.github.io
-=====================
+## Personal Homepage
 
-Homepage of Manoj Pandey
+    http://neerajp99.github.io
